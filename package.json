@@ -1,0 +1,11 @@
+{
+  "author": "Angus McLeod",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-discourse": "latest"
+  },
+  "assets": {
+    "avenir_woff": "assets/Avenir-Regular.woff",
+    "avenir_woff2": "assets/Avenir-Regular.woff2"
+  }
+}
