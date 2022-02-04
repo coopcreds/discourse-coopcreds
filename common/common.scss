@@ -4,3 +4,23 @@
        url($avenir_woff) format('woff');
   font-weight: normal;
 }
+
+body.custom-wizard {
+  background: rgb(104, 144, 116);
+}
+
+.custom-wizard .wizard-step-banner img {
+  max-height: unset;
+}
+
+.custom-wizard .wizard-step-title p {
+  border-bottom: 2px solid rgb(104, 144, 116);
+}
+
+.custom-banner-outlet .section-header {
+  text-align: center;
+}
+
+.banner-box .row .single-box .btn.btn-icon-text {
+  color: var(--secondary);
+}
