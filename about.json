@@ -31,5 +31,9 @@
       "success": "1ca551",
       "love": "fa6c8d"
     }
-  }
+  },
+  "components": [
+    "https://github.com/discourse/discourse-welcome-link-banner.git",
+    "https://github.com/discourse/discourse-custom-header-links.git"
+  ]
 }
